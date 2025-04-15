@@ -1,2 +1,2 @@
-# AgeCalv2
-AgeCalv2 โปรแกรมคำนวณอายุ v2
+# Age-and-employment-period-calculation-program
+Age and employment period calculation program  โปรแกรมคำนวณอายุและอายุงาน
